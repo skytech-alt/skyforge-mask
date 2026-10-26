@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-mask"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Маскировка чувствительных данных для логов."
+    репозиторий = "github.com/skytech-alt/skyforge-mask"
+    точка_входа = "code/main.skf"
+    теги = ["mask", "security", "privacy"]
+    лицензия = "MIT"
+    зависимости = []
+}
